@@ -40,8 +40,6 @@ body {
   text-decoration: none;
   color: black;
   border-bottom: solid 1px black;
-
-
 }
 .twitter{
   max-width: 920px;
@@ -64,16 +62,15 @@ margin-left: auto;
   color: white;
   font-family: 'Lato', sans-serif;
   margin: 0;
-  padding-left: 20px;
-  padding-top: 10px;
   padding-bottom: 10px;
   display: inline-block;
+  padding-left:  20px;
 }
 
-#follow-button{
+.twitter--schalter{
   display: inline-block;
-  padding-top: auto;
-  padding-bottom: auto;
-  background-color: white;
-
+  float: right;
+  margin-right: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
