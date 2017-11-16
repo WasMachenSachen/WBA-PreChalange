@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
     margin: 0;
 }
 
@@ -69,18 +68,4 @@ margin-left: auto;
   padding-bottom: 10px;
   display: inline-block;
   padding-left:  20px;
-}
-
-.twitter--schalter{
-  display: inline-block;
-<<<<<<< HEAD
-  margin-right: 20px;
-  margin-top: auto;
-  margin-bottom: auto;
-=======
-  padding-top: auto;
-  padding-bottom: auto;
-  background-color: white; 
->>>>>>> 48de61cafd5e9d0d9d684fa5cfdf3d4ec9dc31e0
->>>>>>> 5da480d0efe1484e5463cbca2077ca5e3cc7b798
 }
