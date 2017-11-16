@@ -1,4 +1,5 @@
 body {
+<<<<<<< HEAD
     margin: 0;
 }
 
@@ -41,4 +42,40 @@ body {
   text-decoration: none;
   color: black;
   border-bottom: solid 1px black;
+=======
+    margin: 20px;
+}
+.twitter{
+  max-width: 920px;
+margin-left: auto;
+  margin-right: auto;
+  max-height: 260px;
+  overflow: scroll;
+  border-radius: 3px;
+}
+.twitter--fenster{
+  background-color: #00A3EC;
+  padding: 20px;
+  max-width: 960px;
+  max-height: 360px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3px;
+}
+.twitter--header{
+  color: white;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+
+#follow-button{
+  display: inline-block;
+  padding-top: auto;
+  padding-bottom: auto;
+  background-color: white; 
+>>>>>>> 48de61cafd5e9d0d9d684fa5cfdf3d4ec9dc31e0
 }
