@@ -41,8 +41,7 @@ body {
   text-decoration: none;
   color: black;
   border-bottom: solid 1px black;
-=======
-    margin: 20px;
+  margin: 20px;
 }
 .twitter{
   max-width: 920px;
@@ -67,16 +66,5 @@ margin-left: auto;
   margin: 0;
   padding-bottom: 10px;
   display: inline-block;
-<<<<<<< HEAD
   padding-left:  20px;
-=======
-}
-
-#follow-button{
-  display: inline-block;
-  padding-top: auto;
-  padding-bottom: auto;
-  background-color: white;
->>>>>>> 48de61cafd5e9d0d9d684fa5cfdf3d4ec9dc31e0
->>>>>>> 48f8fd89374007a5bb8cead4d84605606de27fc7
 }
