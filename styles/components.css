@@ -71,4 +71,8 @@ margin-left: auto;
 
 .twitter--schalter{
   display: inline-block;
+  float: right;
+  margin-right: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
