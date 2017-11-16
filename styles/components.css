@@ -3,6 +3,10 @@ body {
 }
 
 .header__nav{
+<<<<<<< HEAD
+  position: fixed;
+=======
+>>>>>>> c65bb7ab8b957c628470b47bd08114392b6df155
   width: 100%;
   background: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -28,19 +32,17 @@ body {
 }
 .header__li{
   float: right;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-right: 20px;
 }
 .header__nav  a{
   text-decoration: none;
   font-family: 'Roboto', sans-serif;
   color: black;
 }
-.header__nav  a:hover{
+.header__nav-rechts  a:hover{
   text-decoration: none;
   color: black;
   border-bottom: solid 1px black;
-  margin: 20px;
 }
 .twitter{
   max-width: 920px;
